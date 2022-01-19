@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cihannam
-- 👀 I’m interested in javascript, react, react native, mongo DB, AI & ML
+- 👀 I’m interested in javascript, react, react native, next.js, mongo DB, python, AI & ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on all development projects
 - 📫 How to reach me cihannam@gmail.com
