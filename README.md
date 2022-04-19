@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cihannam
-- 👀 I’m interested in javascript, react, react native, next.js, mongo DB, python, AI & ML
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in javascript, react, react native, next.js, express.js, mongo DB, python, AI & ML
 - 💞️ I’m looking to collaborate on all development projects
-- 📫 How to reach me cihannam@gmail.com
+- 📫 How to reach me: cihannam@gmail.com
 
 <!---
 cihannam/cihannam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
