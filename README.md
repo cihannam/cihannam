@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cihannam
-- 👀 I’m interested in javascript, react, react native, next.js, express.js, mongo DB, python, AI & ML
-- 💞️ I’m looking to collaborate on all development projects
+- 👋 Hi, I’m @cihannam, CTO ond Fullstack developer
+- 👀 I’m interested in ML, NLP, AI and AGI.
+- 💞️ My stack: javascript, react, react native, next.js, express.js, mongo DB, python
 - 📫 How to reach me: cihannam@gmail.com
 
 <!---
