@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @cihannam, CTO ond Fullstack developer
-- 👀 I’m interested in ML, NLP, AI and AGI.
-- 💞️ My stack: javascript, react, react native, next.js, express.js, mongo DB, python
-- 📫 How to reach me: cihannam@gmail.com
+CTO & Fullstack Developer building AI-powered products in fitness and health.
 
-<!---
-cihannam/cihannam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Co-founder of an AI-powered personal training system (real-time CV, rep tracking, coaching)
+- 🧠 Working on pose estimation, 3D joint analysis, adaptive workout engines
+- 🛠️ Stack: JavaScript, Next.js, Node.js, MongoDB, WebRTC, BlazePose, TensorFlow.js
+
+> ⚠️ My GitHub contributions in 2025 appear low due to a new device setup — actual code activity continues daily.
+
+📫 Reach me: [cihannam@gmail.com](mailto:cihannam@gmail.com)
