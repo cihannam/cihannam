@@ -4,6 +4,6 @@ CTO & Fullstack Developer building AI-powered products in fitness and health.
 - 🧠 Working on pose estimation, 3D joint analysis, adaptive workout engines
 - 🛠️ Stack: JavaScript, Next.js, Node.js, MongoDB, WebRTC, BlazePose, TensorFlow.js
 
-> ⚠️ My GitHub contributions in 2025 appear low due to a new device setup — actual code activity continues daily.
+> ⚠️ My GitHub contributions in 2024-2025 appear low due to a new device setup — actual code activity continues daily.
 
 📫 Reach me: [cihannam@gmail.com](mailto:cihannam@gmail.com)
